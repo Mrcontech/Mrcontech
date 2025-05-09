@@ -9,7 +9,7 @@ Am software developer who helps founders turn their ideas into reality. 🚀 I s
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My portfolio](http://Mrcontech.vercel.app)
 * ✉️  You can contact me at [mrcontech1@gmail.com](mailto:mrcontech1@gmail.com)
-* 🚀  I'm currently working on [Africonent](http://Africonent.vercel.app)
+* 🚀  I'm currently working on [Africonent](https://africonect.vercel.app/)
 * 🧠  I'm learning Linux
 * 🤝  I'm open to collaborating on Anything that pushes creative or technical boundaries
 * ⚡  I might be a software developer by day… but I’m definitely Spiderman by night 🕸️
